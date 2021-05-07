@@ -1,0 +1,15 @@
+.heder-second{
+	font-size: 30px;
+	color: blueviolet;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	line-height: 0.03;
+	text-transform: uppercase;
+}
+
+.text-second{
+	font-family: "fantasy", sans-serif;
+	font-size: 20px;
+	color: cornflowerblue;
+	line-height: 0.02;
+	text-transform: capitalize;
+}
